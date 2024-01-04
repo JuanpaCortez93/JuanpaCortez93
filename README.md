@@ -1,5 +1,5 @@
 # Hi, my name is Juan Pablo Cortez Mosquera 👋
-# And I am Freelance full-stack
+# And I am full-stack developer
 </br>
 Despite I'm graduated in Electronics and Telecommunications Engineering, I am a passionate Full-Stack Web Developer from Quito-Ecuador in continuous learning with a three-year trajectory who worked with some programming languages like Python, C#, and JavaScript, complemented by knowledge in Data Science and IoT.
 
