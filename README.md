@@ -1,5 +1,4 @@
-# 👋 Hi, my name is Juan Pablo 
-# And I am full-stack developer who loves work with .NET (and also Python)
+# 👋 Hi, my name is Juan Pablo and I am full-stack developer who loves work with .NET (and another languages)
 </br>
 Despite I'm graduated in Electronics and Telecommunications Engineering, I am a passionate Full-Stack Web Developer from Quito-Ecuador in continuous learning with a three-year trajectory who worked with some programming languages like Python, C#, and JavaScript, complemented by knowledge in Data Science and IoT.
 
