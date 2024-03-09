@@ -7,9 +7,7 @@ My objective is to provide effective solutions to the client in the tech-industr
 
 Finally, I would like to say I am very flexible and I love working in any type of organization. I don't have any problem with the set-times and if it's remote or office. I worked for Ecuador and United States companies and clients, also with people from different countries like Brazil, The Netherlands, Germany or Fiji, so language and cultural barriers are not a problem.
 
-</br>
-# My Skills:
-</br>
+# My Skills 
 ## Agile
 SCRUM (Medium), Design Thinking (Medium), Lean Canvas (Medium) & Discipline Agile (Talent)
 
