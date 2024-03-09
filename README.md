@@ -9,7 +9,7 @@ Finally, I would like to say I am very flexible and I love working in any type o
 
 # My Skills 
 ## Agile
-SCRUM (Medium), Design Thinking (Medium), Lean Canvas (Medium) & Discipline Agile (Talent)
+SCRUM (Medium - Fundamentals Certification), Design Thinking (Medium), Lean Canvas (Medium) & Discipline Agile (Talent)
 
 ## Web Design Basics
 HTML Basics: Figma (Junior), HTML5 (Senior), SaaS & CSS (Medium), Bootstrap (Medium), Javascript (Medium), Typescript (Medium) & JQuery (Medium)
