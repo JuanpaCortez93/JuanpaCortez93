@@ -9,6 +9,7 @@ Finally, I would like to say I am very flexible and I love working in any type o
 
 </br>
 # My Skills:
+</br>
 ## Agile
 SCRUM (Medium), Design Thinking (Medium), Lean Canvas (Medium) & Discipline Agile (Talent)
 
