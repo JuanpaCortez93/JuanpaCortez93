@@ -46,6 +46,7 @@ Algorithms & Data Structures (Junior)
 SOLID Principles (Medium)
 Arquitectures: Client-Server, Model-View-Controller, Hexagonal & Serverless. 
 Design Patterns (Junior)
+</br>
 Another programming languages that I used in my professional carreer: Arduino, Python (Web, Data Science and AI), PHP (Web Programming) & JAVA (Web API’s).
 
 ## 🖥️ Normally, I use this software
