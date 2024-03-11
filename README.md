@@ -14,7 +14,7 @@ SCRUM (Medium - Fundamentals Certification), Design Thinking (Medium), Lean Canv
 HTML Basics: Figma (Junior), HTML5 (Senior), SaaS & CSS (Medium), Bootstrap (Medium), Javascript (Medium), Typescript (Medium) & JQuery (Medium)
 
 ## 🤔🧠 Backend
-Backend: C# (Medium), Node.Js (Medium).
+Backend: C# (Medium), Node.Js (Medium) & Python.
 
 ## 📚 Frameworks & Libraries 
 .NET Core (Medium) & Angular (Medium).
@@ -42,6 +42,7 @@ Excel (Medium) & PowerTools (Junior)
 
 ## 🌱 Another skills
 Soft Skills (Senior).
+</br>
 Algorithms & Data Structures (Junior)
 SOLID Principles (Medium)
 Arquitectures: Client-Server, Model-View-Controller, Hexagonal & Serverless. 
