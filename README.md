@@ -50,7 +50,7 @@ Design Patterns (Junior)
 </br>
 Another programming languages that I used in my professional carreer: Arduino, Python (Web, Data Science and AI), PHP (Web Programming) & JAVA (Web API’s).
 
-## 🖥️ Normally, I use this software
+## 🖥️ Normally, I use this tools
 Coding: Visual Studio Code, Visual Studio, Google Collab, Anaconda, PyCharm y Eclipse.
 Web API’s: Postman & ThunderClient (VS Extension)
 Databases: SQLite3 Console, SSMS2019, PgAdmin, MySQL Workbench, MySQL PHPMyAdmin, Firebase & MongoDb Atlas.
