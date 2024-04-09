@@ -6,8 +6,9 @@ My objective is to provide effective solutions to the client in the tech-industr
 
 Finally, I would like to say I am very flexible and I love working in any type of organization. I don't have any problem with the set-times and if it's remote or office. I worked for Ecuador and United States companies and clients, also with people from different countries like Brazil, The Netherlands, Germany or Fiji, so language and cultural barriers are not a problem.
 
+![Juanpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanpaCortez93&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanpaCortez93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanpaCortez93&show_icons=true&theme=radical)
+
 # 💪 My Skills 
 ## 📅🧑🏽‍💼 Agile
 SCRUM (Medium - Fundamentals Certification), Design Thinking (Medium), Lean Canvas (Medium) & Discipline Agile (Talent)
