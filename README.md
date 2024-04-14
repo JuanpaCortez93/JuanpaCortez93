@@ -4,7 +4,7 @@ Despite I'm graduated in Electronics and Telecommunications Engineering, I am a 
 
 My objective is to provide effective solutions to the client in the tech-industry, based on their economic and infrastrutucture possibilities, the best available technologies, libraries and frameworks like .NET, React or Angular and, the use of agile methodologies such as SCRUM, Lean or Design Thinking. In addition, my soft skills have been trained me to help lead work groups and be a positive member in decision-making processes and the work environment.
 
-Finally, I would like to say I am very flexible and I love working in any type of organization. I don't have any problem with the set-times and if it's remote or office. I worked for Ecuador and United States companies and clients, also with people from different countries like Brazil, The Netherlands, Germany or Fiji, so language and cultural barriers are not a problem.
+Finally, I would like to say I am very flexible and I love working in any type of organization. I don't have any problem with the set-times and if it's remote or office. I worked for Ecuador, India and United States companies and clients, also with people from different countries like Brazil, The Netherlands, India, Germany or Fiji, so language and cultural barriers are not a problem.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanpaCortez93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
