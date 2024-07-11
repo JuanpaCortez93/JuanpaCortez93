@@ -2,7 +2,7 @@
 
 Despite I'm graduated in Electronics and Telecommunications Engineering, I am a passionate Full-Stack Web Developer from Quito-Ecuador in continuous learning with a three-year trajectory who worked with some programming languages like Python, C#, and JavaScript, complemented by knowledge in Data Science and IoT.
 
-My objective is to provide effective solutions to the client in the tech-industry, based on their economic and infrastrutucture possibilities, the best available technologies, libraries and frameworks like .NET, React or Angular and, the use of agile methodologies such as SCRUM, Lean or Design Thinking. In addition, my soft skills have been trained me to help lead work groups and be a positive member in decision-making processes and the work environment.
+My objective is to provide effective solutions to the client in the tech-industry, based on their economic and infrastrutucture possibilities, the best available technologies, libraries and frameworks like .NET, NestJs or Angular and, the use of agile methodologies such as SCRUM, Lean or Design Thinking. In addition, my soft skills have been trained me to help lead work groups and be a positive member in decision-making processes and the work environment.
 
 Finally, I would like to say I am very flexible and I love working in any type of organization. I don't have any problem with the set-times and if it's remote or office. I worked for Ecuador, India and United States companies and clients, also with people from different countries like Brazil, The Netherlands, India, Germany or Fiji, so language and cultural barriers are not a problem.
 
