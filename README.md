@@ -19,7 +19,7 @@ HTML Basics: Figma (Junior), HTML5 (Senior), SaaS & CSS (Medium), Bootstrap (Med
 Backend: C# (Medium), Node.Js (Medium) & Python.
 
 ## 📚 Frameworks & Libraries 
-.NET Core (Medium) & Angular (Medium).
+.NET Core (Medium), NestJs (Starter) & Angular (Medium).
 
 ## 💜 .NET Core
 WPF (Junior), Entity Framework, API Web (Medium),  MVC Web Applications (Medium) & Blazor WebAssembly (Junior)
