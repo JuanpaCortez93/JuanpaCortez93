@@ -17,7 +17,7 @@ Backend: C#, Node.Js & Python.
 ## 📚 Frameworks & Libraries 
 .NET Core, NestJs & Angular.
 
-##  Frameworks & Libraries
+##  Low-Code & No-Code
 Power Platform, Power Apps, Power Automate & Copilot Studio
 
 ## 🔐 Auth
