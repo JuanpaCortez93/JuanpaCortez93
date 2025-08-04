@@ -1,46 +1,42 @@
 # 👋✨ Hi, my name is Juan Pablo and I am full-stack developer who loves work with .NET and Javascript (and another languages)
 
-Despite I'm graduated in Electronics and Telecommunications Engineering, I am a passionate Full-Stack Web Developer from Quito-Ecuador in continuous learning with a three-year trajectory who worked with some programming languages like Python, C#, and JavaScript, complemented by knowledge in Data Science and IoT.
-
-My objective is to provide effective solutions to the client in the tech-industry, based on their economic and infrastrutucture possibilities, the best available technologies, libraries and frameworks like .NET, NestJs or Angular and, the use of agile methodologies such as SCRUM, Lean or Design Thinking. In addition, my soft skills have been trained me to help lead work groups and be a positive member in decision-making processes and the work environment.
-
-Finally, I would like to say I am very flexible and I love working in any type of organization. I don't have any problem with the set-times and if it's remote or office. I worked for Ecuador, India and United States companies and clients, also with people from different countries like Brazil, The Netherlands, India, Germany or Fiji, so language and cultural barriers are not a problem.
+I am a developer in continuous learning with a four-year trajectory and specialized in Full Stack using JavaScript, complemented by knowledge in Data Science and IoT. My objective is to provide effective solutions to the client, based on their economic and infrastructure possibilities, the best technologies and frameworks, such as Angular, NestJs, .Net Core, or Power Platform (Low & No-Code), and employing methodologies such as SCRUM or Design Thinking. In addition, my soft skills have been trained to help lead work groups and be a positive member in decision-making processes and the work environment.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanpaCortez93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💪 My Skills 
 ## 📅🧑🏽‍💼 Agile
-SCRUM (Medium - Fundamentals Certification), Design Thinking (Medium), Lean Canvas (Medium) & Discipline Agile (Talent)
+SCRUM, Design Thinking, Lean Canvas & Discipline Agile
 
 ## 📱🎨 Web Design Basics
-HTML Basics: Figma (Junior), HTML5 (Senior), SaaS & CSS (Medium), Bootstrap (Medium), Javascript (Medium), Typescript (Medium) & JQuery (Medium)
+HTML Basics: Figma, HTML5, SaaS & CSS, Bootstrap, Javascript, Typescript, JQuery and Dart
 
 ## 🤔🧠 Backend
 Backend: C# (Medium), Node.Js (Medium) & Python.
 
 ## 📚 Frameworks & Libraries 
-.NET Core (Medium), NestJs (Starter) & Angular (Medium).
+.NET Core, NestJs & Angular.
 
-## 💜 .NET Core
-WPF (Junior), Entity Framework, API Web (Medium),  MVC Web Applications (Medium) & Blazor WebAssembly (Junior)
+##  Frameworks & Libraries
+Power Platform, Power Apps, Power Automate & Copilot Studio
 
 ## 🔐 Auth
 OpenID, Oauth2 & JWT
 
 ## 🧪 Testing
-NUnit y xUnit (Junior).
+NUnit y xUnit
 
 ## 💽 SQL Databases
-MS SQL (Medium), MySQL (Medium) & PostgreSQL (Junior)
+MS SQL, MySQL & PostgreSQL 
 
 ## 💿 NoSQL Databases
-Firebase (Realtime & Firestore) (Junior) & MongoDB (Junior)
+Firebase (Realtime & Firestore) & MongoDB 
 
 ## ☁️ Azure
-Cloud (Medium) & DevOps (Medium)
+Cloud & DevOps
 
 ## 📝 Data Manipulation
-Excel (Medium) & PowerTools (Junior)
+Excel & PowerTools
 
 ## 🌱 Another skills
 Soft Skills (Senior).
