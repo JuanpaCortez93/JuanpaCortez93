@@ -12,7 +12,7 @@ SCRUM, Design Thinking, Lean Canvas & Discipline Agile
 HTML Basics: Figma, HTML5, SaaS & CSS, Bootstrap, Javascript, Typescript, JQuery and Dart
 
 ## 🤔🧠 Backend
-Backend: C# (Medium), Node.Js (Medium) & Python.
+Backend: C#, Node.Js & Python.
 
 ## 📚 Frameworks & Libraries 
 .NET Core, NestJs & Angular.
