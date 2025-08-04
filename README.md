@@ -1,4 +1,4 @@
-# 👋✨ Hi, my name is Juan Pablo and I am full-stack developer who loves work with .NET and Javascript (and another languages)
+# 👋✨ Hi, my name is Juan Pablo 
 
 I am a developer in continuous learning with a four-year trajectory and specialized in Full Stack using JavaScript, complemented by knowledge in Data Science and IoT. My objective is to provide effective solutions to the client, based on their economic and infrastructure possibilities, the best technologies and frameworks, such as Angular, NestJs, .Net Core, or Power Platform (Low & No-Code), and employing methodologies such as SCRUM or Design Thinking. In addition, my soft skills have been trained to help lead work groups and be a positive member in decision-making processes and the work environment.
 
