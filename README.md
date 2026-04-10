@@ -4,5 +4,3 @@ Full Stack Developer with 4 years of experience building scalable web applicatio
 
 🛠 Stack: React · TypeScript · NestJS · Node.js · PostgreSQL · MongoDB · Azure · GitHub Actions 
 📜 Certifications: AZ-900 · PL-900, SCRUM
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanpaCortez93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
